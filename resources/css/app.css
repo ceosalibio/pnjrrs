@@ -1,0 +1,68 @@
+@import '~vuetify/dist/vuetify.min.css';
+@import '~@mdi/font/css/materialdesignicons.css';
+
+.v-data-table > .v-data-table__wrapper > table > thead > tr > th{
+    font-size: 17px !important; 
+    background-color: #0275d8 !important;
+    text-align: center !important;
+    height:50px; /* height para sa Header*/
+    color:white !important;
+    font-weight: bold !important;
+}
+.v-data-table > .v-data-table__wrapper > table > tbody > tr > td,
+.v-data-table > .v-data-table__wrapper > table > tfoot > tr > th {
+    font-size: 15px ;
+    text-align: center;
+}
+.v-data-table > .v-data-table__wrapper > table {
+    text-align:center; /* text naka center*/
+}
+
+
+.vcard-title{
+    background-color: #0275d8;
+    color:white;
+}
+
+.office-header{
+    font-weight:bold;
+    font-size:15px !important;
+    background-color:lightgrey !important;
+    text-align: left !important;
+}
+
+.branch-header{
+    font-weight:bold;
+    font-size:15px !important;
+    text-align: left !important;
+}
+
+.position-header {
+    text-align: left !important;
+}
+.redCon1{
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+.redCon2{
+    background-color: rgb(6, 133, 251);
+    color: white;
+    font-weight: bold;
+}
+.redCon3{
+    background-color: yellow;
+    font-weight: bold;
+}
+.redCon4{
+    background-color:red;
+    color: white;
+    font-weight: bold;
+}
+.editable{
+    cursor:pointer;
+    background-color:rgb(246, 181, 61);
+}
+.total-bg{
+    background-color: rgb(119, 106, 106);
+}

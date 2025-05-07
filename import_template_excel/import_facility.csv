@@ -1,0 +1,120 @@
+﻿description,required,area,info
+Operational Facilities,,,Operational Facilities
+Administrative Building (sq. m.),,,Operational Facilities
+   a. Office Area,1,250,Operational Facilities
+   b. Receiving Area,1,200,Operational Facilities
+   c. Central Lounge,,,Operational Facilities
+   d. Conference Room,,,Operational Facilities
+   e. Comdr & Dep Comdr Comfort Room,1,100,Operational Facilities
+   f.  Common Comfort Room,,,Operational Facilities
+   g. Library,,,Operational Facilities
+   h. Operation Center,,,Operational Facilities
+       1) Opn Room,,,Operational Facilities
+       2) Sleeping Area,,,Operational Facilities
+       3) T&B,,,Operational Facilities
+Communication Facility (sqm),,,Operational Facilities
+   a. Communication Building ,,,Operational Facilities
+   b. 35 M Antenna Tower,,,Operational Facilities
+Base Security & Defense Facilties,,,Operational Facilities
+   a. Perimeter Fence (Lineal Meters),,,Operational Facilities
+   b. Guard Posts,,,Operational Facilities
+   c. Detention Center,,,Operational Facilities
+   d. Guard House,,,Operational Facilities
+Other Operational Facilties,,,Operational Facilities
+   a. Heliport,,,Operational Facilities
+Operational Support Facilities,,,Operational Support
+Billeting facilities(sq.m.),,,Operational Support
+   a. Commanders Quarters,1,10,Operational Support
+   b. Dep comdrs Qtrs,,,Operational Support
+   c. Sr Offrs Qtr,,,Operational Support
+      1) Single bed room w/private T&B,1,50,Operational Support
+      2) Living Area,,,Operational Support
+"      3) Utility (laundry, drying, & linen)",,,Operational Support
+   d. Field Grade Offrs Qtrs,,,Operational Support
+      1) Double bed room w/Private T&B,,,Operational Support
+      2) Living Area,,,Operational Support
+"      3) Utility (laundry, drying, & linen)",,,Operational Support
+   e. Coy Grade Offrs Qtrs w/common T&B,,,Operational Support
+      1) Double bed room ,,,Operational Support
+      2) Living Area,,,Operational Support
+"      3) Utility (laundry, drying, & linen)",,,Operational Support
+   f. Sr NCOs Qtrs w/common T&B,,,Operational Support
+      1) Double bed room ,,,Operational Support
+      2) Living Area,,,Operational Support
+"      3) Utility (laundry, drying, & linen)",,,Operational Support
+   g. Jr NCOs Qtrs/Brks w/common T&B,,,Operational Support
+      1) Barracks Open Space ,,,Operational Support
+      2) Living Area,,,Operational Support
+"      3) Utility (laundry, drying, & linen)",,,Operational Support
+   h. Transient Offrs Qtrs,,,Operational Support
+   i.  Transient EP Qtrs,,,Operational Support
+   j.  Civilian Employees Qtrs,,,Operational Support
+      1) Double bed room ,,,Operational Support
+      2) Living Area,,,Operational Support
+"      3) Utility (laundry, drying, & linen)",,,Operational Support
+Mess facilties (sqm),,,Operational Support
+   a. Officers' Messhall,,,Operational Support
+      1) Dining Area,,,Operational Support
+      2) Kitchen/Pantry,,,Operational Support
+   b. EP&CE Messhall (sq m),,,Operational Support
+      1) Dining Area,,,Operational Support
+      2) Kitchen/Pantry,,,Operational Support
+      3) Common Comfort Room,,,Operational Support
+Health Facilities,,,Operational Support
+   a. Medical Dispensary,,,Operational Support
+   b. Dental Detachments,,,Operational Support
+   c. Pharmacy,,,Operational Support
+Storage Facilities,,,Operational Support
+   a. Ammo Dump (sq m),,,Operational Support
+   b. Armory/Ordnance (sq m),,,Operational Support
+"   c. Warehouse, GP/Quartermaster/ Supply Room ",,,Operational Support
+   d. POL Dump ,,,Operational Support
+Maintenance facilities,,,Operational Support
+   a. Maintenance Bay  (sq m),,,Operational Support
+   b. Motor Pool (8 Bays SPV; 2 Bays MC),,,Operational Support
+Training Facilities ,,,Operational Support
+   a. Applied Instructions Room,,,Operational Support
+   b. Admin Bldg,,,Operational Support
+   c. Joint Training rooms  ,,,Operational Support
+   d. Bleacher,,,Operational Support
+   e. Student Barracks w/common T&B,,,Operational Support
+   f. Student messhall ,,,Operational Support
+     1) Dining Area,,,Operational Support
+     2) Kitchen/Pantry,,,Operational Support
+     3) Common CR,,,Operational Support
+   g. Firing Range ,,,Operational Support
+   h. Rope Course ,,,Operational Support
+   i.  Obstacle Course ,,,Operational Support
+Grandstand and Ceremonial Areas,,,Operational Support
+,,,Operational Support
+Base Utilities and Facilities,,,Base Utilities and Facilities
+"Distribution line, Water (linear m.)-Total length of Service wires per SDP",,,Base Utilities and Facilities
+Alternate Water system,,,Base Utilities and Facilities
+"Distribution line, Power (linear m.)-Total length of Service wires per SDP",,,Base Utilities and Facilities
+Sewage Treatment Plant ,,,Base Utilities and Facilities
+Emergency Power Source (KVA),,,Base Utilities and Facilities
+"Road, Surfaced (linear m. per CMP)-Paved - total lineal meters per Cp Dev Plan",,,Base Utilities and Facilities
+,,,Base Utilities and Facilities
+Community Facilities,,,Community Facilities
+Chapel Facility (sq.m.),,,Community Facilities
+   a. Catholic Chapel,,,Community Facilities
+   b. Evangelical Chapel/Mosque,,,Community Facilities
+   c. Mortuary,,,Community Facilities
+Recreational Facility (sq.m.),,,Community Facilities
+   a. Gymnasium w/court,,,Community Facilities
+   b. Tennis Court,,,Community Facilities
+   c. Swimming Pool,,,Community Facilities
+   d. Multi-Purpose Hall (with PRT),,,Community Facilities
+Common Living Space (sq..m.),,,Community Facilities
+   a. Offr ClubHouse,,,Community Facilities
+   b. EP Clubhouse,,,Community Facilities
+   c. Non-Exclusive Clubhouse/MP Hall,,,Community Facilities
+Family Housing/Dwelling (sq.m.),,,Community Facilities
+   a. Sr Offrs ,,,Community Facilities
+   b. Field Grade Offrs ,,,Community Facilities
+   c. Coy Grade Offrs ,,,Community Facilities
+   d. Sr NCOs ,,,Community Facilities
+   e. Jr NCOs ,,,Community Facilities
+Health Facility (Hospital) ,,,Community Facilities
+Concessionaires,,,Community Facilities
+School,,,Community Facilities
